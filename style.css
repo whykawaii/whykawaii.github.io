@@ -1,8 +1,14 @@
 * {
     box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 html, body {
     background-color: #000000;
     color: #008000;
+}
+
+p {
+    margin: 0 auto;
+    width: 40%;
 }

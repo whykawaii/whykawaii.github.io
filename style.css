@@ -10,7 +10,6 @@ html, body {
 }
 
 p {
-    margin: 0 auto;
-    margin-bottom: 25px;
-    width: 40%;
+    margin: 25px auto;
+    width: 550px;
 }

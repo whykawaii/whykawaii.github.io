@@ -9,6 +9,10 @@ html, body {
     font-size: 17px;
 }
 
+h1 {
+    text-align: center;
+}
+
 p {
     margin: 25px auto;
     width: 550px;
